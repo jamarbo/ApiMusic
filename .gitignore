@@ -1,1 +1,6 @@
-client_secret.json\ntoken.json\n
+client_secret.json
+token.json
+progreso_migracion.json
+__pycache__/
+*.pyc
+.env
